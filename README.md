@@ -1,11 +1,6 @@
 # 🧠 Data Structures & Algorithms Practice Repository
 
-![DSA Banner](https://via.placeholder.com/1024x300.png?text=Learn+Data+Structures+%26+Algorithms)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/your-github-username/dsa-practice)](https://github.com/your-github-username/dsa-practice)
-[![GitHub repo size](https://img.shields.io/github/repo-size/your-github-username/dsa-practice)](https://github.com/your-github-username/dsa-practice)
-[![Languages](https://img.shields.io/github/languages/count/your-github-username/dsa-practice)](https://github.com/your-github-username/dsa-practice)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![DSA Banner]([https://via.placeholder.com/1024x300.png?text=Learn+Data+Structures+%26+Algorithms](https://c7.alamy.com/comp/2AH78NN/algorithms-word-concepts-banner-programming-data-structure-and-mining-machine-learning-coding-presentation-isolated-lettering-typography-with-li-2AH78NN.jpg))
 
 Welcome to my **DSA Practice Hub**! 🚀  
 This repository is dedicated to building a strong foundation in **Data Structures and Algorithms (DSA)**. Whether you're preparing for interviews, improving problem-solving skills, or brushing up on core concepts, this repo is the place to be.
@@ -47,23 +42,6 @@ This repository is dedicated to building a strong foundation in **Data Structure
 - Kadane's Algorithm
 
 ---
-
-## 📈 DSA Progress Tracker
-
-> Visualized in progression (rendered only on Mermaid-enabled viewers)
-
-<details>
-<summary>Click to View Mermaid Graph</summary>
-
-```mermaid
-graph LR
-    A[Arrays] --> B[Strings]
-    B --> C[Linked Lists]
-    C --> D[Stacks & Queues]
-    D --> E[Trees]
-    E --> F[Graphs]
-    F --> G[Heaps]
-    G --> H[Tries & Advanced Topics]
 
 
 ---
