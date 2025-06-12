@@ -1,6 +1,11 @@
 # 🧠 Data Structures & Algorithms Practice Repository
 
-![DSA Banner](https://i.imgur.com/MpKk4kG.png)
+![DSA Banner](https://via.placeholder.com/1024x300.png?text=Learn+Data+Structures+%26+Algorithms)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/your-github-username/dsa-practice)](https://github.com/your-github-username/dsa-practice)
+[![GitHub repo size](https://img.shields.io/github/repo-size/your-github-username/dsa-practice)](https://github.com/your-github-username/dsa-practice)
+[![Languages](https://img.shields.io/github/languages/count/your-github-username/dsa-practice)](https://github.com/your-github-username/dsa-practice)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 Welcome to my **DSA Practice Hub**! 🚀  
 This repository is dedicated to building a strong foundation in **Data Structures and Algorithms (DSA)**. Whether you're preparing for interviews, improving problem-solving skills, or brushing up on core concepts, this repo is the place to be.
