@@ -1,6 +1,6 @@
 # 🧠 Data Structures & Algorithms Practice Repository
 
-![DSA Banner](https://i.pinimg.com/736x/be/63/ab/be63ab94ff5189ce647fc19fc49f9f95.jpg)
+![DSA Banner]([https://i.pinimg.com/736x/be/63/ab/be63ab94ff5189ce647fc19fc49f9f95.jpg](https://i.pinimg.com/736x/da/7c/21/da7c21943e1af053c426663a04012e89.jpg))
 
 Welcome to my **DSA Practice Hub**! 🚀  
 This repository is dedicated to building a strong foundation in **Data Structures and Algorithms (DSA)**. Whether you're preparing for interviews, improving problem-solving skills, or brushing up on core concepts, this repo is the place to be.
